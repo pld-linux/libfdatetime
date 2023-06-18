@@ -3,13 +3,13 @@
 Summary:	Library to support various date and time formats that are used in file formats
 Summary(pl.UTF-8):	Biblioteka obsługująca różne formaty daty i czasu używane w formatach plików
 Name:		libfdatetime
-Version:	20180910
+Version:	20220112
 Release:	1
 License:	LGPL v3+
 Group:		Libraries
 #Source0Download: https://github.com/libyal/libfdatetime/releases
 Source0:	https://github.com/libyal/libfdatetime/releases/download/%{version}/%{name}-alpha-%{version}.tar.gz
-# Source0-md5:	8c9726fb6c1b98395e3ae9870d480d1d
+# Source0-md5:	6e444eefd25e294e9a7cf03c192f5a2d
 URL:		https://github.com/libyal/libfdatetime/
 BuildRequires:	autoconf >= 2.59
 BuildRequires:	automake >= 1.6
